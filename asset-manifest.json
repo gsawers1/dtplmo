@@ -1,7 +1,7 @@
 {
   "main.css": "/dtplmo/static/css/main.7a1d5478.chunk.css",
-  "main.js": "/dtplmo/static/js/main.725ba749.chunk.js",
-  "main.js.map": "/dtplmo/static/js/main.725ba749.chunk.js.map",
+  "main.js": "/dtplmo/static/js/main.159d58cf.chunk.js",
+  "main.js.map": "/dtplmo/static/js/main.159d58cf.chunk.js.map",
   "static/css/1.cc76c993.chunk.css": "/dtplmo/static/css/1.cc76c993.chunk.css",
   "static/js/1.bfcccb63.chunk.js": "/dtplmo/static/js/1.bfcccb63.chunk.js",
   "static/js/1.bfcccb63.chunk.js.map": "/dtplmo/static/js/1.bfcccb63.chunk.js.map",
@@ -13,6 +13,6 @@
   "static/media/rumham.png": "/dtplmo/static/media/rumham.8f9937be.png",
   "static/css/main.7a1d5478.chunk.css.map": "/dtplmo/static/css/main.7a1d5478.chunk.css.map",
   "index.html": "/dtplmo/index.html",
-  "precache-manifest.5be30ca5cfd14234fe52f8c99afc3a71.js": "/dtplmo/precache-manifest.5be30ca5cfd14234fe52f8c99afc3a71.js",
+  "precache-manifest.8a3de8220972a6da5e71baa1f93a89ca.js": "/dtplmo/precache-manifest.8a3de8220972a6da5e71baa1f93a89ca.js",
   "service-worker.js": "/dtplmo/service-worker.js"
 }
